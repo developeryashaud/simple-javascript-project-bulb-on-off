@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fbulb-logo&psig=AOvVaw0JDyNpNrYLlJ_v8rayu5jE&ust=1706276532752000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC89sfV-IMDFQAAAAAdAAAAABAE" alt="Project Logo" width="300">
+  <img src="https://png.pngtree.com/element_our/20200702/ourmid/pngtree-bulb-logo-pictures-image_2289662.jpg" alt="Project Logo" width="300">
 </p>
 
 # SIMPLE JAVASCRIPT PROJECT HTML,CSS,JAVASCRIPT BULB ON OFF
@@ -36,7 +36,7 @@ List the key features that make your project stand out.
 Include a screenshot or gif showcasing your project in action.
 
 <p align="center">
-  <img src="path/to/your/demo.gif" alt="Project Demo" width="600">
+  <img src="https://png.pngtree.com/element_our/20200702/ourmid/pngtree-bulb-logo-pictures-image_2289662.jpg" alt="Project Demo" width="600">
 </p>
 
 ## Installation
@@ -45,10 +45,10 @@ Provide clear and concise installation instructions.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+https://github.com/developeryashaud/simple-javascript-project-bulb-on-off.git
 
 # Navigate to the project directory
-cd your-repo
+cd
 
 # Install dependencies
 npm install
