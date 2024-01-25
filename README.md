@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="path/to/your/logo.png" alt="Project Logo" width="300">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fbulb-logo&psig=AOvVaw0JDyNpNrYLlJ_v8rayu5jE&ust=1706276532752000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC89sfV-IMDFQAAAAAdAAAAABAE" alt="Project Logo" width="300">
 </p>
 
-# Project Name
+# SIMPLE JAVASCRIPT PROJECT HTML,CSS,JAVASCRIPT BULB ON OFF
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
